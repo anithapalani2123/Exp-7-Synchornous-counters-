@@ -109,7 +109,10 @@ endmodule
 
 
 ### TRUTH TABLE 
-## up counter:
-## down counter
 
+## up counter:
+![output](./up.jpeg)
+## down counter
+![output](./down.jpeg)
 ### RESULTS :
+Hence the Four bit Up counter and Down counter is implemented successfully and its functionality is validated.
