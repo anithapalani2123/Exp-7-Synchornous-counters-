@@ -119,6 +119,6 @@ endmodule
 ## up counter:
 ![output](./up.jpeg)
 ## down counter
-![output](./down.jpeg)
+![output](./out.jpeg)
 ### RESULTS :
 Hence the Four bit Up counter and Down counter is implemented successfully and its functionality is validated.
